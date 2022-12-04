@@ -10,3 +10,4 @@ jest.setup.js
 jest.config.js
 gulpfile.babel.js
 config
+dist
